@@ -1,0 +1,21 @@
+Normal "Rob"	100	Say "Rob" naturally, neutral tone,
+quiet environment, normal speed. This
+is your baseline.
+
+Varied Emotions	100	Say "Rob" with different tones
+and emotions: happy, excited, tired,
+calm, frustrated. Try to exaggerate
+slightly so the model learns variations.
+
+Background Noise	100	Say "Rob" while there is
+noise: TV/music in background, street
+sounds, typing, fan, etc. Make sure
+the word is still audible.
+
+Fast / Slow Speaking	50	Say "Rob" fast in some
+clips, slow in others. Mix with
+neutral emotion.
+
+Distance / Mic Position	50	Say "Rob" close to mic
+in some clips, farther away in
+others. Optionally move around slightly.
