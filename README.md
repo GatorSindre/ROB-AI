@@ -1,0 +1,1 @@
+Training an ai to detect when i say rob
